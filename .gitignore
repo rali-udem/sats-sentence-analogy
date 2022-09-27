@@ -1,0 +1,12 @@
+.~lock.*
+~$*
+**/.ipynb_checkpoints/
+**/.idea/
+!/data/
+/data/*
+/data/*/
+!/data/sats/
+!/data/tensorboard/
+/data/tensorboard/*/*/
+**/__pycache__/
+/venv/

@@ -1,0 +1,23 @@
+accelerate
+blingfire
+datasets
+# deepspeed
+evaluate
+fasttext
+FrEIA
+geotorch
+h5py
+InstructorEmbedding
+jiwer
+# mpi4py # apt install libopenmpi-dev
+numpy<1.24.0
+pandas
+plotnine
+protobuf<=3.20.1
+# pysbd
+sentence_transformers
+tensorboardX
+torch
+torchmetrics
+tqdm
+transformers
